@@ -1,0 +1,22 @@
+1. post have many categories / categories have many posts
+2. Post nested form with smart non duplicate categories
+
+7. Create a categories show page that links to all of the posts associated with a given category
+
+4. Comment is going to belong to a user
+3. Posts have many comments 
+5. on the post show page I need a comment form with drop down for users and a text box for user name
+6. Create a users show page that links to all of the posts a user has commented on. 
+
+
+Start with... 
+posts_spec
+categories_spec 
+comments_spec
+user_spec
+
+posts model
+categories model 
+
+posts controller 
+posts new 
